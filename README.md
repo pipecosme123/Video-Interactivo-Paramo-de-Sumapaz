@@ -1,4 +1,4 @@
-# Video-Interactivo-Páramo-de-Sumapaz
+# Video Interactivo - Páramo de Sumapaz
 
 ## Descripción de proyecto
 Desarrollo de un video interactivo aplicando todo lo visto en la asignatura Video & Televisión Digital. Este proyecto se realiza utilizando acciones en pantalla, gamificación y una participación de la audiencia selectiva. (Ampliación de la información en las consignas teóricas subidas en el repositorio)
