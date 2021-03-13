@@ -1,7 +1,7 @@
 # Video Interactivo - Páramo de Sumapaz
 
 ## Desarrolladores
-Daniel Felipe Cosme, Dilan Andres Arango, Diana Valentina Urrutia, Edsson Andree Cortes
+Daniel Felipe Cosme, Diana Valentina Urrutia, Dilan Andres Arango, Edsson Andree Cortes
 
 ## Descripción de proyecto
 Desarrollo de un video interactivo aplicando todo lo visto en la asignatura Video & Televisión Digital. Este proyecto se realiza utilizando acciones en pantalla, gamificación y una participación de la audiencia selectiva. (Ampliación de la información en las consignas teóricas subidas en el repositorio)
