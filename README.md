@@ -23,8 +23,7 @@ Desarrollar un sistema multimedia audiovisual interactivo para la muestra Narran
 - Visual Studio Code
 
 ### Archivos del Proyecto
-* Documentos:
-  - **Consignas teóricas**: En estos documentos se describen los paso a paso de cómo se construyó el proyecto, desde el proceso de investigación hasta la selección de la propuesta de solución.
-  - **Archivos del aplicativo Web**: Estos archivos son la base de código que usamos para darle forma al proyecto.
-  - **Videos realizados**: Estos son los videos utilizados en el proyecto, estos fueron realizados con las herramientas anteriormente mensionadas: https://youtube.com/playlist?list=PLY9V_vglSqFJXH9EUIG16PcugSZBcdfZf
-  - **Video explicativo**: Es un resumen de todo lo que se realizó en el proyecto, junto con los demas integrantes del proyecto: https://youtu.be/H-GOv2MwzXA 
+- **Consignas teóricas**: En estos documentos se describen los paso a paso de cómo se construyó el proyecto, desde el proceso de investigación hasta la selección de la propuesta de solución.
+- **Archivos del aplicativo Web**: Estos archivos son la base de código que usamos para darle forma al proyecto.
+- **Videos realizados**: Estos son los videos utilizados en el proyecto, estos fueron realizados con las herramientas anteriormente mensionadas: https://youtube.com/playlist?list=PLY9V_vglSqFJXH9EUIG16PcugSZBcdfZf
+- **Video explicativo**: Es un resumen de todo lo que se realizó en el proyecto, junto con los demas integrantes del proyecto: https://youtu.be/H-GOv2MwzXA 
