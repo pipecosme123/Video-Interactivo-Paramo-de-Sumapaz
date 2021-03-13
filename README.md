@@ -10,7 +10,7 @@ Desarrollar un sistema multimedia audiovisual interactivo para la muestra Narran
 ### Lenguajes:
 - HTML, version 5
 - CSS - version 3
-- React.js. - version ..
+- React.js. - version 16.13.1
 
 ### Herramientas:
 - Adobe Premiere Pro
